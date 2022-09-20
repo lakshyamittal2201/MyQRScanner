@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My QR Scanner</string>
+    <string name="button_txt">Tap to scan</string>
+    <string name="textview_txt">Scanned text</string>
+    <string name="link_btn">Open link</string>
+</resources>
